@@ -1,0 +1,4 @@
+# Nmap 7.99 scan initiated Tue Sep 29 03:09:36 2026 as: /usr/lib/nmap/nmap -sV -O -oA ket_qua 192.168.157.132
+Host: 192.168.157.132 ()	Status: Up
+Host: 192.168.157.132 ()	Ports: 22/open/tcp//ssh//OpenSSH 10.2p1 Ubuntu 2ubuntu3.5 (Ubuntu Linux; protocol 2.0)/	Ignored State: closed (999)	Seq Index: 263	IP ID Seq: All zeros
+# Nmap done at Tue Sep 29 03:09:52 2026 -- 1 IP address (1 host up) scanned in 16.23 seconds
