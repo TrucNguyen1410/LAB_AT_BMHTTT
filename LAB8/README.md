@@ -4,7 +4,6 @@
 Bài thực hành phân tích cơ chế phân giải tên miền (DNS) và việc giả mạo phản hồi DNS (DNS cache poisoning) trong một môi trường ảo cô lập. Bài tập tách biệt các lớp phân giải (file `/etc/hosts`, truy vấn DNS trực tiếp, cache của resolver), dùng pfSense để cô lập mạng DNSLAB, và tập trung vào biện pháp phòng thủ sau khi hoàn thành.
 
 - **Sinh viên:** Nguyễn Lê Anh Trúc – MSSV 1150080078 – Lớp 11ĐHCNPM1
-- **Video:** *(cập nhật link YouTube)*
 
 ---
 
