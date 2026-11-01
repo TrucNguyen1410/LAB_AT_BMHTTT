@@ -43,5 +43,3 @@ LAB8/
 ├── LAB8_Local_DNS_Attack_pfSense_2026.docx            # Đề bài
 └── LAB8_Local_DNS_Attack_pfSense_2026_FINAL/          # Bộ tài nguyên của giảng viên
 ```
-
-> ⚠️ Bộ tài nguyên và đề bài không thuộc phần nộp của sinh viên. Không đưa lên repo các script tấn công hoặc file cấu hình của môi trường thật.
